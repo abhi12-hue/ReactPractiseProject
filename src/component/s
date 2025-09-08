@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+❓ Interview Question
+In React, when we write
+
+const [count, setCount] = useState(0);
+
+
+count is a const, so how does its value change
+ when we click a button and call setCount?
